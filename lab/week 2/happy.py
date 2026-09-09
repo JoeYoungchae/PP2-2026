@@ -25,4 +25,3 @@ if __name__ == "__main__":
 #    test_happy_birthday()
 #    test_happy_birthday2()
     test_happy_birthday3()
-
