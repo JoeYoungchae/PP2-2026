@@ -19,8 +19,10 @@
     │   ├── collections.ipynb # 튜플·세트·딕셔너리 실습
     │   ├── listex.ipynb      # 리스트 실습
     │   └── typehint.ipynb    # 타입 힌트 실습
-    └── week 4
-        └── learn8.ipynb      # 4주차 수업 실습
+    ├── week 4
+    │   └── learn8.ipynb      # 4주차 수업 실습
+    └── week 5
+        └── learn12.ipynb    # 5주차 수업 실습
 ```
 
 ## 참고
