@@ -20,9 +20,19 @@
     │   ├── listex.ipynb      # 리스트 실습
     │   └── typehint.ipynb    # 타입 힌트 실습
     ├── week 4
-    │   └── learn8.ipynb      # 4주차 수업 실습
+    │   ├── learn8.ipynb      # 4주차 수업 실습
+    │   └── programming
+    │       ├── prob1.py
+    │       ├── prob2.py
+    │       ├── prob3.py
+    │       ├── prob4.py
+    │       ├── prob5.py
+    │       ├── prob6.py
+    │       ├── prob7.py
+    │       ├── prob8.py
+    │       └── prob9.py      # 프로그래밍 문제 풀이
     └── week 5
-        └── learn12.ipynb    # 5주차 수업 실습
+        └── learn12.ipynb     # 5주차 수업 실습
 ```
 
 ## 참고
