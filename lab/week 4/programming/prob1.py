@@ -43,5 +43,5 @@ def test_prob1():
     Leo = Cat(name="레오", age=1)
     print(Leo)
 
-if __name__ == "__main__":
+if __name__ == "__main__":      # 파일이 직접 실행된 경우에만 아래의 코드를 실행하라는 뜻.
     test_prob1()
