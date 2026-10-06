@@ -6,10 +6,11 @@
 
 ```text
 .
+├── .gitignore                # Git 추적 제외 규칙
 ├── hello.py                  # Hello, World! 예제
-├── mynotebook.ipynb          # 개인 노트북
 ├── markdown.md               # Markdown 문법 샘플
-└── lab
+├── mynotebook.ipynb          # 개인 노트북
+└── lab                       # 주차별 실습 자료
     ├── week 2
     │   ├── bmi.py            # BMI 계산 실습
     │   ├── happy.py          # 생일 축하 함수 실습
@@ -31,8 +32,11 @@
     │       ├── prob7.py
     │       ├── prob8.py
     │       └── prob9.py      # 프로그래밍 문제 풀이
-    └── week 5
-        └── learn12.ipynb     # 5주차 수업 실습
+    ├── week 5
+    │   └── learn12.ipynb     # 5주차 수업 실습
+    └── week 6
+        ├── file.txt
+        └── learn10.ipynb     # 6주차 수업 실습
 ```
 
 ## 참고
