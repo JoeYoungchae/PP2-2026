@@ -33,7 +33,15 @@
     │       ├── prob8.py
     │       └── prob9.py      # 프로그래밍 문제 풀이
     ├── week 5
-    │   └── learn12.ipynb     # 5주차 수업 실습
+    │   ├── learn12.ipynb     # 5주차 수업 실습
+    │   └── programming
+    │       ├── prog1.py
+    │       ├── prog2.py
+    │       ├── prog3.py
+    │       ├── prog4.py
+    │       ├── prog5.py
+    │       ├── prog6.py
+    │       └── prog7.py      # 프로그래밍 문제 풀이
     └── week 6
         ├── file.txt
         └── learn10.ipynb     # 6주차 수업 실습
