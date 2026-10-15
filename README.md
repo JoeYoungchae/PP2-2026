@@ -19,19 +19,20 @@
     │   └── programming         # prob1.py ~ prob9.py
     ├── week 5
     │   ├── learn12.ipynb       # 수업 실습
+    │   └── programming         # prog1.py ~ prog7.py
+    ├── week 6
+    │   ├── learn10.ipynb       # 파일 입출력 수업 실습
+    │   ├── file.txt            # 파일 입출력 실습 파일
     │   └── programming
-    │       ├── prog1.py ~ prog5.py
-    │       ├── prog6.py        # 학과, 교과목, 학생의 has-a 관계
-    │       └── prog7.py        # 가수, 앨범, 노래, 재생 목록의 has-a 관계
-    └── week 6
-        ├── learn10.ipynb       # 파일 입출력 수업 실습
-        ├── file.txt            # 파일 입출력 실습 파일
-        └── programming
-            ├── input.txt       # 파일 입출력 문제에서 사용하는 입력 파일
-            ├── prog1.py        # 파일의 줄을 읽어 출력
-            ├── prog2.py        # 파일에서 가장 긴 단어 찾기
-            ├── prog3.py        # 입력한 파일의 행 번호에 해당하는 줄 출력
-            └── prog4.py        # A.txt부터 Z.txt까지 파일 생성
+    │       ├── input.txt       # 파일 입출력 문제에서 사용하는 입력 파일
+    │       ├── prog1.py        # 파일의 줄을 읽어 출력
+    │       ├── prog2.py        # 파일에서 가장 긴 단어 찾기
+    │       ├── prog3.py        # 입력한 파일의 행 번호에 해당하는 줄 출력
+    │       ├── prog4.py        # A.txt부터 Z.txt까지 파일 생성
+    │       ├── prog5.py        # 파일에 줄 추가
+    │       └── prog5.txt       # prog5.py에서 변환하는 텍스트 파일
+    └── week 7
+        └── learn11.ipynb       # 수업 실습
 ```
 
 ## 실행 방법
