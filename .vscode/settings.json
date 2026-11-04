@@ -1,7 +1,12 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:system",
-    "editor.quickSuggestions": false,
-    "editor.suggestOnTriggerCharacters": false,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": true
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
     "editor.inlineSuggest.enabled": false,
     "github.copilot.enable": {
         "*": false
