@@ -17,44 +17,43 @@ PP2-2026
 ├── hello.py
 ├── markdown.md
 ├── mynotebook.ipynb
-└── lab
-    ├── week 2
-    │   ├── bmi.py
-    │   ├── happy.py
-    │   └── selfstudy.ipynb
-    ├── week 3
-    │   ├── bmi2.py
-    │   ├── collections.ipynb
-    │   ├── listex.ipynb
-    │   └── typehint.ipynb
-    ├── week 4
-    │   ├── learn8.ipynb
-    │   └── programming
-    │       └── prob1.py ~ prob9.py
-    ├── week 5
-    │   ├── learn12.ipynb
-    │   └── programming
-    │       └── prog1.py ~ prog7.py
-    ├── week 6
+└── lab                         # 주차별 실습 자료
+    ├── week 2                  # 2주차 실습
+    │   ├── bmi.py              # BMI 계산 프로그램
+    │   ├── happy.py            # Python 프로그램
+    │   └── selfstudy.ipynb     # Python 실습 노트북
+    ├── week 3                  # 3주차 실습
+    │   ├── bmi2.py             # BMI 계산 프로그램
+    │   ├── collections.ipynb   # 컬렉션 실습 노트북
+    │   ├── listex.ipynb        # 리스트 실습 노트북
+    │   └── typehint.ipynb      # 타입 힌트 실습 노트북
+    ├── week 4                  # 4주차 실습
+    │   ├── learn8.ipynb        # 챕터 8 수업 노트북
+    │   └── programming         # 프로그래밍 문제 풀이 폴더
+    │       └── prob1.py ~ prob9.py  # Python 문제 풀이 파일
+    ├── week 5                  # 5주차 실습
+    │   ├── learn12.ipynb       # 챕터 12 수업 노트북
+    │   └── programming         # 프로그래밍 문제 풀이 폴더
+    │       └── prog1.py ~ prog7.py  # Python 문제 풀이 파일
+    ├── week 6                  # 6주차 실습
     │   ├── file.txt
     │   ├── kkk.png
-    │   ├── learn10.ipynb
+    │   ├── learn10.ipynb       # 챕터 10 수업 노트북
     │   ├── save.p
-    │   └── programming
-    │       ├── input.txt
-    │       ├── prog1.py ~ prog4.py
-    │       ├── prog5.py
+    │   └── programming         # 프로그래밍 문제 풀이 폴더
+    │       ├── input.txt       # 문제 풀이 입력 파일
+    │       ├── prog1.py ~ prog5.py  # Python 문제 풀이 파일
     │       └── prog5.txt
-    ├── week 7
-    │   └── learn11.ipynb
-    ├── week 9
-    │   ├── cobutton.py
-    │   ├── hellogui.py
-    │   └── learn9.ipynb
-    └── week 10
-        ├── learn9.ipynb
-        └── Programming
-            └── prog1.py ~ prog6.py
+    ├── week 7                  # 7주차 실습
+    │   └── learn11.ipynb       # 챕터 11 수업 노트북
+    ├── week 9                  # 9주차 실습
+    │   ├── cobutton.py         # Tkinter GUI 프로그램
+    │   ├── hellogui.py         # Tkinter GUI 프로그램
+    │   └── learn9.ipynb        # 챕터 9 수업 노트북
+    └── week 10                 # 10주차 실습
+        ├── learn9.ipynb        # 챕터 9 실습 노트북
+        └── Programming         # 프로그래밍 문제 풀이 폴더
+            └── prog1.py ~ prog6.py  # Python 문제 풀이 파일
 ```
 
 ---
